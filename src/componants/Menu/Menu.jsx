@@ -17,7 +17,7 @@ const Menu = props =>{
         <div className={styles.speech_container_div}>
             <div className={styles.speech_div}>
                 <div className={styles.hi_div} id="hi">
-                    <p className={styles.speechBubble_Hi_p}>Hey there, no time to stop but I'm sure we can have a good chat</p>
+                    <p className={styles.speechBubble_Hi_p}>Hey there, no time to stop but I'm sure we can have a good chat.</p>
                 </div>
                 <div className={styles.navBar_div} id="navBar">
                     <p>About</p>
