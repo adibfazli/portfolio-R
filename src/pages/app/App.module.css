@@ -25,3 +25,33 @@
     transform: translate3d(-19000px, 0, 0);
   }
 }
+.mountainImg_container{
+  position: absolute;
+  top:0;
+  /* z-index: 10; */
+  background-image: url(../../image/m.png);
+  background-position: 0 0;
+  background-repeat: repeat-x;
+  background-size: cover;
+  animation: animate 100s linear infinite;
+  overflow-x: hidden;
+  width: 100%;
+  height:50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@keyframes animate{
+  from{
+      background-position: 0 0;
+  }
+  to{
+      background-position: 3000% 0;
+  }
+}
+.speechBubble_img{
+  position: absolute;
+  left: 26%;
+  width: 50%;
+  z-index: 120;
+}
