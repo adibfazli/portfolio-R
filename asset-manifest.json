@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-R/static/css/main.42b42468.chunk.css",
+    "main.js": "/portfolio-R/static/js/main.9d4f08e9.chunk.js",
+    "main.js.map": "/portfolio-R/static/js/main.9d4f08e9.chunk.js.map",
+    "runtime-main.js": "/portfolio-R/static/js/runtime-main.737cbbe2.js",
+    "runtime-main.js.map": "/portfolio-R/static/js/runtime-main.737cbbe2.js.map",
+    "static/js/2.67dc7c54.chunk.js": "/portfolio-R/static/js/2.67dc7c54.chunk.js",
+    "static/js/2.67dc7c54.chunk.js.map": "/portfolio-R/static/js/2.67dc7c54.chunk.js.map",
+    "index.html": "/portfolio-R/index.html",
+    "precache-manifest.90ab5333998e510d517727b70365c2ac.js": "/portfolio-R/precache-manifest.90ab5333998e510d517727b70365c2ac.js",
+    "service-worker.js": "/portfolio-R/service-worker.js",
+    "static/css/main.42b42468.chunk.css.map": "/portfolio-R/static/css/main.42b42468.chunk.css.map",
+    "static/js/2.67dc7c54.chunk.js.LICENSE.txt": "/portfolio-R/static/js/2.67dc7c54.chunk.js.LICENSE.txt",
+    "static/media/blurCac.png": "/portfolio-R/static/media/blurCac.4bd153ab.png",
+    "static/media/cactus.png": "/portfolio-R/static/media/cactus.aa51daa8.png",
+    "static/media/cloud.png": "/portfolio-R/static/media/cloud.df55bbad.png",
+    "static/media/App.module.css": "/portfolio-R/static/media/m.5b5de989.png",
+    "static/media/me.gif": "/portfolio-R/static/media/me.49aaf4c7.gif",
+    "static/media/speechBubble.png": "/portfolio-R/static/media/speechBubble.2672b97c.png",
+    "static/media/tumbleweed.png": "/portfolio-R/static/media/tumbleweed.bb035bf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737cbbe2.js",
+    "static/js/2.67dc7c54.chunk.js",
+    "static/css/main.42b42468.chunk.css",
+    "static/js/main.9d4f08e9.chunk.js"
+  ]
+}
