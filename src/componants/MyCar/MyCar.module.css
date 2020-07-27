@@ -1,6 +1,8 @@
 .myCarImg_div{
     /* margin-top: 100px; */
-    margin: 0;
+    margin-top: -17%;
+    margin-left: -1%;
+    z-index: -1;
     width: 100%;
     /* background-color: red; */
     position: relative;
